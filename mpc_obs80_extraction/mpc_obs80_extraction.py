@@ -16,8 +16,8 @@ def extract_obs80( provid=None, permid=None ):
 
     config = {
         "host": "192.168.1.21",
-        "user": "linder",
-        "password": "flyhigh34",
+        "user": "****",
+        "password": "****",
         "database": "mpc_sbn",
     }
 
@@ -124,8 +124,8 @@ def determineCorrectPermid_Provid( provid=None, permid=None ):
 
     config = {
         "host": "192.168.1.21",
-        "user": "linder",
-        "password": "flyhigh34",
+        "user": "****",
+        "password": "****",
         "database": "mpc_sbn",
     }
 
